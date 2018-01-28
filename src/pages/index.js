@@ -1,6 +1,4 @@
 import React from "react";
-import Link from "gatsby-link";
-
 import NameCard from "../components/NameCard";
 
 const IndexPage = () => (
